@@ -14,7 +14,7 @@ is determined by the exact position of the axis;
 
 //----value for modification-------//
 const int turnning_speed = 100;
-const int rising_speed = 45;
+const int rising_speed = 50;
 const int brushing_speed = 100;
 //---------------------------------//
 
